@@ -827,6 +827,7 @@ section,
 
 .portfolio .portfolio-content img {
   transition: 0.3s;
+  border-radius: 5px;
 }
 
 .portfolio .portfolio-content .portfolio-info {
@@ -887,6 +888,7 @@ section,
 }
 
 .portfolio .portfolio-content:hover img {
+  border-radius: 5px;
   transform: scale(1.1);
 }
 
